@@ -1,4 +1,4 @@
-# Caesar-s-Cipher-CS50-
+# Caesar's Cipher (CS50)
 
 **This is a CS50x2021 and it is shared for educational purposes and encouraging feedback (since CS50x2021 course is already outdated), this code is not to be copied or replicated as solution for newer editions, in compliance with CS50's Academic Honesty Agreement.**
 
